@@ -1,0 +1,93 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * acumin-pro-extra-condensed:
+ *   - http://typekit.com/eulas/00000000000000007735d417
+ * acumin-pro-wide:
+ *   - http://typekit.com/eulas/00000000000000007735d412
+ * adobe-clean:
+ *   - http://typekit.com/eulas/00000000000000007735dac8
+ *   - http://typekit.com/eulas/00000000000000007735dacd
+ *   - http://typekit.com/eulas/00000000000000007735dad8
+ *   - http://typekit.com/eulas/00000000000000007735dadb
+ *   - http://typekit.com/eulas/00000000000000007735dad9
+ *   - http://typekit.com/eulas/00000000000000007735dad6
+ * degular:
+ *   - http://typekit.com/eulas/00000000000000007735c87d
+ * source-code-pro:
+ *   - http://typekit.com/eulas/00000000000000007758ce1d
+ *
+ * © 2009-2026 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2025-10-15 15:50:06 UTC"}*/
+
+@import url("../p.typekit.net/p__q_d2ae0fb58a15.css");
+
+@font-face {
+font-family:"adobe-clean";
+src:url("af/59b220/00000000000000007735dac8/31/l__q_32ad740ee796") format("woff2"),url("af/59b220/00000000000000007735dac8/31/d__q_32ad740ee796") format("woff"),url("af/59b220/00000000000000007735dac8/31/a__q_32ad740ee796") format("opentype");
+font-display:swap;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"adobe-clean";
+src:url("af/597099/00000000000000007735dacd/31/l__q_14a2edde6277") format("woff2"),url("af/597099/00000000000000007735dacd/31/d__q_14a2edde6277") format("woff"),url("af/597099/00000000000000007735dacd/31/a__q_14a2edde6277") format("opentype");
+font-display:swap;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"adobe-clean";
+src:url("af/55f17d/00000000000000007735dad8/31/l__q_952ec5722edb") format("woff2"),url("af/55f17d/00000000000000007735dad8/31/d__q_952ec5722edb") format("woff"),url("af/55f17d/00000000000000007735dad8/31/a__q_952ec5722edb") format("opentype");
+font-display:swap;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"adobe-clean";
+src:url("af/354b11/00000000000000007735dadb/31/l__q_e02652c01a30") format("woff2"),url("af/354b11/00000000000000007735dadb/31/d__q_e02652c01a30") format("woff"),url("af/354b11/00000000000000007735dadb/31/a__q_e02652c01a30") format("opentype");
+font-display:swap;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"adobe-clean";
+src:url("af/9e2f3a/00000000000000007735dad9/31/l__q_f1da2840cad9") format("woff2"),url("af/9e2f3a/00000000000000007735dad9/31/d__q_f1da2840cad9") format("woff"),url("af/9e2f3a/00000000000000007735dad9/31/a__q_f1da2840cad9") format("opentype");
+font-display:swap;font-style:normal;font-weight:900;font-stretch:normal;
+}
+
+@font-face {
+font-family:"adobe-clean";
+src:url("af/d11205/00000000000000007735dad6/31/l__q_e05d645b6651") format("woff2"),url("af/d11205/00000000000000007735dad6/31/d__q_e05d645b6651") format("woff"),url("af/d11205/00000000000000007735dad6/31/a__q_e05d645b6651") format("opentype");
+font-display:swap;font-style:italic;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"source-code-pro";
+src:url("af/80f457/00000000000000007758ce1d/31/l__q_32ad740ee796") format("woff2"),url("af/80f457/00000000000000007758ce1d/31/d__q_32ad740ee796") format("woff"),url("af/80f457/00000000000000007758ce1d/31/a__q_32ad740ee796") format("opentype");
+font-display:swap;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"acumin-pro-extra-condensed";
+src:url("af/f69d41/00000000000000007735d417/31/l__q_a0bfe931c24b") format("woff2"),url("af/f69d41/00000000000000007735d417/31/d__q_a0bfe931c24b") format("woff"),url("af/f69d41/00000000000000007735d417/31/a__q_a0bfe931c24b") format("opentype");
+font-display:swap;font-style:italic;font-weight:200;font-stretch:normal;
+}
+
+@font-face {
+font-family:"acumin-pro-wide";
+src:url("af/33df8a/00000000000000007735d412/31/l__q_429b5af7ba1a") format("woff2"),url("af/33df8a/00000000000000007735d412/31/d__q_429b5af7ba1a") format("woff"),url("af/33df8a/00000000000000007735d412/31/a__q_429b5af7ba1a") format("opentype");
+font-display:swap;font-style:normal;font-weight:800;font-stretch:normal;
+}
+
+@font-face {
+font-family:"degular";
+src:url("af/31d582/00000000000000007735c87d/31/l__q_429b5af7ba1a") format("woff2"),url("af/31d582/00000000000000007735c87d/31/d__q_429b5af7ba1a") format("woff"),url("af/31d582/00000000000000007735c87d/31/a__q_429b5af7ba1a") format("opentype");
+font-display:swap;font-style:normal;font-weight:800;font-stretch:normal;
+}
+
+.tk-adobe-clean { font-family: "adobe-clean",sans-serif; }
+.tk-source-code-pro { font-family: "source-code-pro",monospace; }
+.tk-acumin-pro-extra-condensed { font-family: "acumin-pro-extra-condensed",sans-serif; }
+.tk-acumin-pro-wide { font-family: "acumin-pro-wide",sans-serif; }
+.tk-degular { font-family: "degular",sans-serif; }
