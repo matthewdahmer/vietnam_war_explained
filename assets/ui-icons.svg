@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="icon-nav-hamburger" viewBox="0 0 24 24">
+    <path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z" fill="currentColor" />
+  </symbol>
+
+  <symbol id="caret-right-icon--small" viewBox="0 0 24 24">
+    <path d="M9 5l8 7-8 7z" fill="currentColor" />
+  </symbol>
+
+  <symbol id="video-player-icon" viewBox="0 0 24 24">
+    <path d="M8 5l12 7-12 7z" fill="currentColor" />
+  </symbol>
+
+  <symbol id="chevron-down-large-icon" viewBox="0 0 24 24">
+    <path
+      d="M6 9.5l6 6 6-6"
+      fill="none"
+      stroke="currentColor"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      stroke-width="2.5"
+    />
+  </symbol>
+</svg>
